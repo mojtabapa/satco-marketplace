@@ -1,0 +1,16 @@
+{
+  "name": "ساتکو | بازار کاشی و سرامیک",
+  "short_name": "ساتکو",
+  "description": "بازار هوشمند موجودی کاشی و سرامیک ایران",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1b19",
+  "theme_color": "#d9b45a",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
